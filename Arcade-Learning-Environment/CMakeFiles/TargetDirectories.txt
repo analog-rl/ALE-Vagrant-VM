@@ -1,0 +1,5 @@
+/home/vagrant/CMakeFiles/ale-bin.dir
+/home/vagrant/CMakeFiles/ale-c-lib.dir
+/home/vagrant/CMakeFiles/ale-lib.dir
+/home/vagrant/CMakeFiles/sharedLibraryInterfaceExample.dir
+/home/vagrant/CMakeFiles/videoRecordingExample.dir
